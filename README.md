@@ -1,6 +1,6 @@
 # Competition-2020
 The code used on 7137's robot in 2020.
-This project was created by Abhi Alderman, with help from his mentor Taylor.\
+This project was created by Abhi Alderman, with help from his mentor Taylor.
 
 The files not within a folder are the most important.
 AutoAiming.java - The code for using a limelight camera to auto aim our shooter towards the goal.
