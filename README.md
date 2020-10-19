@@ -1,2 +1,5 @@
-# Ygnacio-Valley-High-School-FRC-2020-Code
-This is a refined and more organized version of the repository named Competition 2020 for public viewing. None of the code has been changed.
+# Competition-2020
+The code used on 7137's robot in 2020.
+Anything file labeled with Subsystem lies within the Subsystem folder.
+Robot, Constants, RobotContainer, and Main lie within the main folder.
+All other files lie within the Command folder.
