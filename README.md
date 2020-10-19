@@ -19,20 +19,20 @@ Main.java - Not created or edited by me. Given and used by FRC when creating a r
 The folders are organized as follows.
 
 
-SUBSYSTEMS
+SUBSYSTEMS - 
 All files within the subsystems are classes that create the different subsystems available on the robot.
 Subsystems create multiple methods that are then used by Commands.
 
 
-COMMANDS
+COMMANDS - 
 Commands simply execute methods that were created in the subystem when an assigned button is pressed.
 
 
-DEFAULTS
+DEFAULTS - 
 Defaults are what command is run for each subsystem when no button is being pressed. In most instances, default commands control the subsytem and set the motors to not move and the pistons to their desired default value.
 
 
-SWERVE DRIVE
+SWERVE DRIVE - 
 Swerve drive is a term for a drive train with 4 wheels that can face any direction. (Think of the front 2 wheels of a shopping cart.) 
 Swerve drive is a complex drivetrain and a challenge for many teams. This was our first year attempting a swerve drive train, and ours worked fairly well. There was room for improvements, but our time was cut short by quarantine.
 See this links for the basics of swerve drive.
