@@ -3,10 +3,15 @@ The code used on 7137's robot in 2020.
 This project was created by Abhi Alderman, with help from his mentor Taylor.
 
 The files not within a folder are the most important.
+
 AutoAiming.java - The code for using a limelight camera to auto aim our shooter towards the goal.
+
 Constants.java - Constant variables used throughout the program, located in one place for convenient editing.
+
 Robot.java - Runs through the states of the game, executing code throughout.
+
 RobotContainer.java - Declares the Commands and Subsystems, creates the controllers, and assigns buttons to execute specific commands.
+
 Main.java - Not created or edited by me. Given and used by FRC when creating a robotics project.
 
 The folders are organized as follows.
