@@ -34,7 +34,7 @@ Defaults are what command is run for each subsystem when no button is being pres
 
 SWERVE DRIVE - 
 Swerve drive is a term for a drive train with 4 wheels that can face any direction. (Think of the front 2 wheels of a shopping cart.) 
-Swerve drive is a complex drivetrain and a challenge for many teams. This was our first year attempting a swerve drive train, and ours worked fairly well. There was room for improvements, but our time was cut short by quarantine.
+Swerve drive is a complex drivetrain and a challenge for many teams. This was our first year attempting a swerve drive train, and ours worked fairly well. There was room for improvement, but our time was cut short by quarantine.
 See this links for the basics of swerve drive.
 Youtube demo by FRC team 9048 - https://www.youtube.com/watch?v=idizm--Qwlc&ab_channel=Philobots
 Longer, more in depth video explaining swerve drive by FIRST - https://www.youtube.com/watch?v=9adMaBLfYZ4&ab_channel=OfficialFIRST
@@ -47,7 +47,7 @@ This project was created during my Senior year in the 6-8 weeks provided.
 
 I self taught myself programming, specifically Java, throughout high school for my team to compete in these competitions.
 
-Unfortunately, due to COVID-19, we were not able to complete the mechanisms of the robot. Aspects that I coded into this project, such as the robot Arm and the Control Panel Manipulator, are not fully implemented at this time. The school year being cut short lead to little footage of the robot in action.
+Unfortunately, due to COVID-19, we were not able to complete the mechanisms of the robot. Aspects that I coded into this project, such as the robot Arm and the Control Panel Manipulator, are not fully implemented at this time. The school year being cut short led to little footage of the robot in action.
 
 Here is a short demo of the robots shooting mechanism - https://www.instagram.com/p/B85NxOqBzl6/
 (That's me on the right!)
