@@ -47,7 +47,7 @@ This project was created during my Senior year in the 6-8 weeks provided.
 
 I self taught myself programming, specifically Java, throughout high school for my team to compete in these competitions.
 
-Unfortunately, due to COVID-19, we were not able to complete this project. Aspects that I coded into this project, such as the robot Arm and the Control Panel Manipulator, are not fully functioning at this time. The school year being cut short lead to little footage of the robot.
+Unfortunately, due to COVID-19, we were not able to complete the mechanisms of the robot. Aspects that I coded into this project, such as the robot Arm and the Control Panel Manipulator, are not fully implemented at this time. The school year being cut short lead to little footage of the robot in action.
 
 Here is a short demo of the robots shooting mechanism - https://www.instagram.com/p/B85NxOqBzl6/
 (That's me on the right!)
