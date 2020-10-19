@@ -40,6 +40,6 @@ Here is a short demo of the robots shooting mechanism - https://www.instagram.co
 Another short demo, to see the scale and size of our robot. - https://www.facebook.com/project212yvhsrobotics/videos/847074879121941/
 (That's me under the hoop!)
 
-Special thanks to Taylor, my mentor, for teaching me so much this year! I would've been lost without you!
+Special thanks to Taylor, my mentor, for teaching me so much this year! I would've been lost without you! 
 
 
