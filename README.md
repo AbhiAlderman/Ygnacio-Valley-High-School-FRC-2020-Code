@@ -41,6 +41,8 @@ Longer, more in depth video explaining swerve drive by FIRST - https://www.youtu
 A beginner tutorial for programming swerve drive that helped me get started - https://jacobmisirian.gitbooks.io/frc-swerve-drive-programming/content/
 
 
+BACKGROUND
+
 This was my third ever programming project, and my second ever project using Java.
 
 This project was created during my Senior year in the 6-8 weeks provided.
@@ -57,5 +59,14 @@ Another short demo, to see the scale and size of our robot. - https://www.facebo
 
 
 Special thanks to Taylor, my mentor, for teaching me so much this year! I would've been lost without you! 
+
+
+
+FIRST ROBOTICS COMPETITION(FRC)
+
+The FIRST Robotics competition is a competition in which high school teams across the globe compete by building a robot in 6 weeks to perform in each years game. The students design, build, and program their own robots as a team, and compete against other high schools in their region. The top teams from each region compete at the international finals held in Houston, Texas.
+
+To learn more about FRC, see here - https://www.firstinspires.org/
+The game that the robot using this code competed in - https://www.youtube.com/watch?v=gmiYWTmFRVE&ab_channel=FIRSTRoboticsCompetition
 
 
