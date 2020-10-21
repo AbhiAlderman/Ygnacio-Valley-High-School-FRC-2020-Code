@@ -3,6 +3,8 @@ The code used on 7137's robot in 2020.
 This project was created by Abhi Alderman, with help from his mentor Taylor.
 
 
+---CONTENT---
+
 The files not within a folder are the most important.
 
 AutoAiming.java - The code for using a limelight camera to auto aim our shooter towards the goal.
@@ -41,7 +43,7 @@ Longer, more in depth video explaining swerve drive by FIRST - https://www.youtu
 A beginner tutorial for programming swerve drive that helped me get started - https://jacobmisirian.gitbooks.io/frc-swerve-drive-programming/content/
 
 
-BACKGROUND
+---BACKGROUND---
 
 This was my third ever programming project, and my second ever project using Java.
 
@@ -62,7 +64,7 @@ Special thanks to Taylor, my mentor, for teaching me so much this year! I would'
 
 
 
-FIRST ROBOTICS COMPETITION(FRC)
+---FIRST ROBOTICS COMPETITION(FRC)---
 
 The FIRST Robotics competition is a competition in which high school teams across the globe compete by building a robot in 6 weeks to perform in each years game. The students design, build, and program their own robots as a team, and compete against other high schools in their region. The top teams from each region compete at the international finals held in Houston, Texas.
 
