@@ -18,7 +18,7 @@ RobotContainer.java - Declares the Commands and Subsystems, creates the controll
 Main.java - Not created or edited by me. Given and used by FRC when creating a robotics project.
 
 
-The folders are organized as follows.
+The folders are organized as follows:
 
 
 SUBSYSTEMS - 
