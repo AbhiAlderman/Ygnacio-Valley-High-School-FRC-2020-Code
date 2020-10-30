@@ -47,17 +47,15 @@ A beginner tutorial for programming swerve drive that helped me get started - ht
 
 This was my third ever programming project, and my second ever project using Java.
 
-This project was created during my Senior year in the 6-8 weeks provided.
+This project was created during my Senior year of high school in the 6-8 weeks provided.
 
 I self taught myself programming, specifically Java, throughout high school for my team to compete in these competitions.
 
 Unfortunately, due to COVID-19, we were not able to complete the mechanisms of the robot. Aspects that I coded into this project, such as the robot Arm and the Control Panel Manipulator, are not fully implemented at this time. The school year being cut short led to little footage of the robot in action.
 
-Here is a short demo of the robots shooting mechanism - https://www.instagram.com/p/B85NxOqBzl6/
-(That's me on the right!)
+Here is a short demo of me testing the robots shooting mechanism - https://www.instagram.com/p/B85NxOqBzl6/
 
 Another short demo, to see the scale and size of our robot. - https://www.facebook.com/project212yvhsrobotics/videos/847074879121941/
-(That's me under the hoop!)
 
 
 Special thanks to Taylor, my mentor, for teaching me so much this year! I would've been lost without you! 
