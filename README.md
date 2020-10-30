@@ -1,5 +1,5 @@
 # Competition-2020
-The code used on 7137's robot in 2020.
+The code used on Ygnacio Valley High School FRC Team 7137's robot in 2020.
 This project was created by Abhi Alderman, with help from his mentor Taylor.
 
 
